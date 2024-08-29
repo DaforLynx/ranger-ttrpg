@@ -66,9 +66,10 @@ To make a check, roll an eight-sided die (1d8), take into account any advantage 
 | +3       | 42.2%        | 56%          | **75%**   | 93.8%     |
 
 ### Advantage/Disadvantage
-If the circumstance suggests that a player may have a helping or hindering factor in their attempted action (whether a check or attack), the Narrator may pose advantage or disadvantage on the roll.
+If the circumstance suggests that a player may have a helping or hindering factor in their attempted action (whether a check or attack), the Narrator may impose advantage or disadvantage on the roll.
 - Advantage: roll twice and take the higher result (base 61% chance)
 - Disadvantage: roll twice and take the lower result (base 14% chance)
+
 Sources of advantage and disadvantage can stack, but the final result is whichever type has more sources. If the number of sources of advantage and disadvantage are equal, they cancel out and the roll is made normally.
 ### Double Disadvantage
 If the player wants to attempt an extremely foolhardy action that still has a slim chance of succeeding, the Narrator may impose double disadvantage on the roll. As the name implies, this entails rolling *three times* and taking the lowest result.
@@ -141,6 +142,7 @@ If a Ranger takes damage while maimed, they fall unconscious and prone, and can 
 An unconscious Ranger cannot be revived except through specific means.
 - Another Ranger's help: whether through smelling salts, a slap on the cheek, a slash of cold water, or perhaps the simple smell of coffee, a Ranger in melee range can spend two actions in a single turn reviving an unconscious Ranger.
 - The Capsule: a specific talent.
+
 A Ranger revived after being reduced to 0 hitpoints will do so with 1 remaining hitpoint and be unable to perform an action until their next turn.
 An unconscious Ranger hit with a melee attack of harmful intent will begin bleeding out and will die after their next turn if they do not receive urgent medical attention.
 ### Prone
@@ -159,16 +161,17 @@ The kingdom is huge. Travel across even a single Hold can take days using a moun
 Travel occurs day by day. Every day, the party nominates one member to lead the group (or agrees on a single leader for the entire journey). The leader rolls a MIND check.
 - Success: travel proceeds at normal pace with no interruptions
 - Failure: travel proceeds at half the normal pace and the leader must roll a d8. Depending on the result of that d8, the Narrator may spring an encounter on the party which takes place during that leg of the journey.
+
 Travel pace is as follows:
 
-| Terrain  | Miles/day (mount/on-foot) |     | Conditions     | Modifier |
-| -------- | ------------------------- | --- | -------------- | -------- |
-| Grassy   | 50/30                     |     | Rain           | -10      |
-| Forest   | 30/20                     |     | Snow           | -20      |
-| Rocky    | 40/30                     |     | Dehydratation  | -20      |
-| Icy      | 20/10                     |     | Hunger         | -10      |
-| Desert   | 40/20                     |     | High Elevation | -10      |
-| Mountain | 30/20                     |     | Sprint         | x2       |
+| Terrain  | Miles/day (mount/on-foot) | Conditions     | Modifier |
+| -------- | ------------------------- | -------------- | -------- |
+| Grassy   | 50/30                     | Rain           | -10      |
+| Forest   | 30/20                     | Snow           | -20      |
+| Rocky    | 40/30                     | Dehydratation  | -20      |
+| Icy      | 20/10                     | Hunger         | -10      |
+| Desert   | 40/20                     | High Elevation | -10      |
+| Mountain | 30/20                     | Sprint         | x2       |
 
 If, by circumstance, the party cannot travel more than 10 miles in a day, it suggests there are extreme circumstances besetting them. Thus, the leader must also roll a WIT check to ensure the party does not fall hungry. If the check fails, the party becomes hungry as they fail to find enough food to eat. This condition lasts until the party is able to move more than 10 miles in a day.
 Additionally, desert terrain will elicit an additional MIND check from the leader to ensure the party does not become dehydrated. If the party is dehydrated for three days in a row, they will all die. Therefore, dehydration is a strong sign that it is time to turn back.
@@ -184,6 +187,7 @@ Rush is given to players by the Narrator at various points in the game. All Rush
 - When one or more players make an incredibly immersive in-character roleplay moment.
 - When a player makes a deeply clever and surprising action.
 - Whenever the Narrator damn wants.
+
 Rush can be used by players whenever *any* die has been rolled to:
 - give a +1 or -1 bonus/penalty to the roll
 - reroll the die and use either the higher or lower value between the original roll and the reroll
