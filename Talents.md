@@ -4,7 +4,7 @@ There's also a category for magical abilities. Magic is an optional system which
 **Bean Hoarder** (1 RP)
 Somehow, you seem to always have access to precious coffee beans to keep you and fellow Rangers sated. Even when by all rights you should have run out. If you run out of coffee and must make some, roll a MIND check to determine whether you have more on you.
 **Caffeine Free** (1 RP)
-You have been gifted with the lack of a caffeine addiction. You never suffer the effects of coffee withdrawal, but neither do you gain a Caffeine Rush by drinking it.
+You have been gifted with the lack of a caffeine addiction. You never suffer the effects of coffee withdrawal, but neither do you gain a Rush by drinking it.
 **Voice of Reason** (1 RP)
 You have advantage on WIT checks to deescalate a situation or persuade a party for peace.
 **Spectre of Death** (1 RP)
@@ -27,7 +27,7 @@ When dealing 1 or more damage with a CQC attack, a player can roll a BODY check 
 **Adrenaline Rush** (1 RP)
 When an enemy attempts to attack you, whether or not it hits, you can choose to immediately use a move action or attack back without affecting the action count of your next turn. This talent can be used a number of times per day equal to 1 + your BODY stat.
 **Born Ready** (2 RP)
-Stringing a bow only takes one action. Characters who surprise attack you receive no bonus to their attack roll. You can use one Caffeine Rush to immediately attack a character that has attacked you without any action loss.
+Stringing a bow only takes one action. Characters who surprise attack you receive no bonus to their attack roll. You can use one Rush to immediately attack a character that has attacked you without any action loss.
 **The Capsule** (2 RP)
 You have obtained and been trained on an experimental piece of equipment: a tiny capsule which can be hidden in a tooth, containing a certain powdered concoction which can be released onto the tongue in a dire circumstance. The powder does NOT kill you. Once per mission, if you fall unconscious, you will be revived without assistance on your next turn at 1 hitpoint.
 **Sharpshooter** (2 RP)

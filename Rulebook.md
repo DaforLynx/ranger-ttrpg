@@ -20,25 +20,30 @@ The mission is usually given by either the Ranger Commander, another figure of o
 At the end of a mission, each party member receives 1-3 RP depending on how difficult it ended up being. This can generally be measured by the number of sessions it took.
 # Stats
 There are three core stats:
-BODY
+
+**BODY** 0-3
 - physical exertion
 - athletic feats
 - hazard resistance
-MIND
+
+**MIND** 0-3
 - knowledge checks
 - tracking
 - medicine
-WIT
+
+**WIT** 0-3
 - diplomacy and charm
 - danger sense and perception
 - instinct
 
 There are also combat stats:
-Hitpoints (starts at 1)
-Dodge (starts at 5)
 
-At character creation, each player begins with 8 **Ranger Points** (RP). Each mission rewards a player a number of RP. RP can be spent between missions.
-One RP can be spent on one stat (core or combat). Talents' costs are listed in the Talents section. Core stats and dodge can have a maximum of 3 points, and hitpoints have a maximum of 5. There is no limit to the number of talents.
+**Hitpoints** 1-5 (starts at 1)
+
+**Dodge** 5-8 (starts at 5)
+
+At character creation, each player begins with 8 **Ranger Points (RP)**. Each mission rewards a player a number of RP. RP can be spent between missions.
+One RP can be spent on one stat (core or combat). Talents' costs are listed in the Talents section. Core stats and dodge can have a maximum of 3 points put into them, and hitpoints have a maximum of 5. There is no limit to the number of talents.
 A player can also spend 4 RP on an **animal companion**.
 # Checks
 Checks are made when the player chooses to or is required to make an action that they can potentially fail at.
@@ -74,19 +79,8 @@ If the final die rolled an 8 on its face, the player has made a critical success
 ### Critical Failure
 If the final die rolled a 1 on its face, the player has made a critical failure. This means the result of the check comes with some kind of hindrance or complication, which may either come from the Narrator or be coordinated between the Narrator and player. Attacks (normally) do not critically fail.
 # Combat
-Rangers never miss their target when using their bow. Instead, they roll dice to determine damage.
-In natural terrain and in darkness, when not moving or moving slowly, Rangers cannot be seen. Elsewhere, and when moving quickly, a Ranger can be spotted if they cross an enemy's sight.
-Rangers are never heard unless they want to be.
-Bow - d8
-Throwing knife - d8-1 (limit 1; requires one hand free; can be retrieved)
-CQC - d8-2 (choose a small melee weapon; requires two hands free)
-(Throwing knife and CQC can miss when they roll a 1 or 2 respectively)
-First players move (simultaneously), then enemies, unless the players are caught by surprise, in which case the order reverses.
-Move 8 spaces per action; 4 if trying to move unseen or climb something.
-Attacks made while the enemy's back is turned or while the enemy is not on high alert is a **sneak attack** and will sum two rolls (before adding/subtracting bonuses). Both rolls are capable of being a critical success.
+### Actions
 One turn represents a "beat" of combat, enough time for a single exchange of blows to happen before both sides need a quick breather.
-One grid space represents either 5-10 feet or the immediate threat range of a combatant.
-
 Every turn consists of two actions.
 Moving is an action.
 Attacking is an action.
@@ -95,11 +89,24 @@ Picking up an object or weapon, opening a door quietly, throwing something, cutt
 Stringing a bow and picking a lock take two actions in a single turn.
 Other activities' action cost are up to the narrator.
 If an action remains after a player's turn, they take a defensive stance and give a -1 penalty to all attacks made against them.
+### Attacking
+Rangers never miss their target when using their bow. In fact, players do not roll "to hit" in this system. Instead, they roll dice to determine damage.
+Bow - d8 (optimal range: long)
+Throwing knife - d8-1 (optimal range: short; limit 1; requires one hand free; can be retrieved)
+CQC - d8-2 (choose a small melee weapon; requires two hands free)
+Getting a total result of 0 or below indicates that an attack missed completely.
+Attacks made while the enemy's back is turned or while the enemy is not on high alert is a **sneak attack** and will sum two rolls (before adding/subtracting bonuses). Both rolls are capable of being a critical success.
+### Moving
+In natural terrain and in darkness, when not moving or moving slowly, Rangers cannot be seen. Elsewhere, and when moving quickly, a Ranger can be spotted if they cross an enemy's sight.
+Rangers are never heard unless they want to be.
+First players move (simultaneously), then enemies, unless the players are caught by surprise, in which case the order reverses.
+Move 8 spaces per action; 4 if trying to move unseen or climb something.
+One grid space represents either 5-10 feet or the immediate threat range of a combatant.
 ### Enemies
 The players' foes work somewhat differently.
 When an enemy attacks a player, the Narrator rolls a d8 (taking into account any advantage or disadvantage), adds the total bonus or penalty, and compares it to the player's dodge stat. If the result is equal to or greater than the dodge stat, it hits the player.
 **A player hit by an enemy attack loses exactly one hitpoint**.
-Enemies only have two stats: attack bonus and health.
+Enemies only have two stats: **attack bonus** and **health**.
 Enemies, meanwhile, can have a health value ranging from pitifully small to downright tanky. A standard goon might have 5 health, a rampaging boar might have 20.
 Enemies also have two actions each, but they are mostly limited to move (usually 8 spaces max), get up from prone, switch weapons, and attack. If an enemy needs to make a check, it is a flat d8 roll.
 An enemy who reaches 0 health dies *unless* the player who attacks them declares beforehand that the attack is aimed to be nonlethal. In other words, attacks are considered lethal by default.
@@ -116,9 +123,9 @@ Boss health is a pool of health that lies "above" their normal health. If an att
 Bosses may also have access to talents both familiar and unfamiliar.
 When a boss's health reaches 0, they are *incapacitated*. Whether or not they fall unconscious, or even die, depends on either the Narrator's fiat or the attacking player's intent.
 ### Armor
-Armor is a number starting from 0 which subtracts from final damage. Players do not have armor.
-0 is unarmored.
-An enemy may also be *heavily armored*, which means they are impervious to all conventional attacks a Ranger can make.
+Armor is a number starting from 0 and going all the way up to 5 which subtracts from final damage. Players do not have armor.
+0 is unarmored, 5 is nearly impervious.
+An enemy may also be *heavily armored*, which means they are *truly* impervious to all *conventional* attacks a Ranger can make.
 ### Range Bands
 Melee range is within an adjacent space
 Close range is within sneaking distance (4 spaces)
@@ -169,20 +176,20 @@ The party may decide that speed is of the essence. In such a case, the party can
 # Coffee
 Each Ranger has a supply of coffee beans which is replenished after every mission. This is represented by a coffee count of 3 per player.
 At the beginning of each day, the party decides who will donate enough of their bean stash to make a full pot (in other words, one party member must decrease their coffee count by one).
-Drinking coffee at the beginning of the day gives the Ranger one Caffeine Rush (explained below).
+Drinking coffee at the beginning of the day gives the Ranger one Rush (explained below).
 If, for whatever reason, a Ranger goes without coffee in the morning, they must roll a WIT check. If they fail, they are tired and grumpy for the whole day, suffering a -1 to their highest stat (choose one if there's multiple).
-### Caffeine Rush
-Caffeine Rush is given to players by the Narrator at various points in the game. All Caffeine Rush wears off by the morning. It is given:
+### Rush
+Rush is given to players by the Narrator at various points in the game. All Rush wears off by the morning. It is given:
 - When a player's Ranger drinks coffee in the morning.
 - When one or more players make an incredibly immersive in-character roleplay moment.
 - When a player makes a deeply clever and surprising action.
 - Whenever the Narrator damn wants.
-Caffeine Rush can be used by players whenever *any* die has been rolled to:
+Rush can be used by players whenever *any* die has been rolled to:
 - give a +1 or -1 bonus/penalty to the roll
 - reroll the die and use either the higher or lower value between the original roll and the reroll
 # Animal Companions
 If a player so chooses, they may spend 4 RP on an animal companion at character creation and at any point between missions during the campaign. A player can have as many animal companions as they want, but they are solely the player's responsibility. Animal companions may also be given as part of a mission or story, the stats of which are decided by the Narrator.
-Animal companions share Caffeine Rush with their owner. They act during the players' turn and do *not* have to act at the same time as their owner. They share all combat rules with players except for stealth; it is not a given that they are undetectable.
+Animal companions share Rush with their owner and can use it in all the same ways. They act during the players' turn and do *not* have to act at the same time as their owner. They share all combat rules with players except for stealth; it is not a given that they are undetectable.
 An animal companion can be any creature of reasonable size plausible to the setting. *Ask the Narrator*. Choose either a **small** or **large** creature, then give them a talent from the lists below.
 ### Small
 *Less than the size of a labrador*
