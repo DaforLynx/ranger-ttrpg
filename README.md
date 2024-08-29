@@ -1,2 +1,11 @@
 # ranger-ttrpg
 A tactical TTRPG for those who love rangers
+
+# What is this?
+This is the source repository for a TTRPG I'm creating (title pending). It is heavily (heavily) inspired by the *Ranger's Apprentice* series by John Flanagan, but it is not necessarily rooted in that setting. This RPG is meant to be relatively simple, with a focus on tactics and on making travel at least a little engaging. That's not to say there aren't a whole lot of character-building options - just that, as a result of being focused on rangers, players will tend to fall into a similar archetype.
+# How is this organized?
+For now, there will be a main `Rulebook.md` alongside collections of talents, enemies, missions, adventures, and maybe even settings. Eventually, I'll put together a PDF and release it for free here and on itch.io, but that's not going to happen for a while (if ever).
+# How can I contribute?
+This is a personal project, so I'm not taking feedback right now. PRs will be ignored.
+# How can I use this?
+This game is licensed under `CC-BY-4.0`. You can totally take this and modify it however you wish, publicize it, stream it, heck, sell it, as long as you credit me.
