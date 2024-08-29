@@ -76,7 +76,7 @@ If the player wants to attempt an extremely foolhardy action that still has a sl
 **It is recommended this only be an option if the player has a neutral bonus or above to the roll.**
 There is no double advantage.
 ### Critical Success
-If the final die rolled an 8 on its face, the player has made a critical success. This means the result of the check comes with a little extra benefit, courtesy of the Narrator. A critical successes on an attack means the die can be rolled again and added to the damage. The extra die cannot be a critical success even if it rolls 8.
+If the final die rolled an 8 on its face, the player has made a critical success. If the roll is for a check, the result of the check comes with a little extra benefit, courtesy of the Narrator. A critical successes on an attack means the die can be rolled again and added to the damage. The extra die cannot be a critical success even if it rolls 8.
 ### Critical Failure
 If the final die rolled a 1 on its face, the player has made a critical failure. This means the result of the check comes with some kind of hindrance or complication, which may either come from the Narrator or be coordinated between the Narrator and player. Attacks (normally) do not critically fail.
 # Combat
@@ -92,17 +92,19 @@ Other activities' action cost are up to the narrator.
 If an action remains after a player's turn, they take a defensive stance and give a -1 penalty to all attacks made against them.
 ### Attacking
 Rangers never miss their target when using their bow. In fact, players do not roll "to hit" in this system. Instead, they roll dice to determine damage.
-Bow - d8 (optimal range: long)
-Throwing knife - d8-1 (optimal range: short; limit 1; requires one hand free; can be retrieved)
-CQC - d8-2 (choose a small melee weapon; requires two hands free)
+- **Bow** - d8 (optimal range: long)
+- **Throwing knife** - d8-1 (optimal range: short; limit 1; requires one hand free; can be retrieved)
+- **CQC** - d8-2 (choose a small melee weapon; requires two hands free)
+
 Getting a total result of 0 or below indicates that an attack missed completely.
+Getting a critical success on an attack (rolling an 8 on the die) means the player can roll the die again and add it to the damage, though this extra roll cannot be another critical success.
 Attacks made while the enemy's back is turned or while the enemy is not on high alert is a **sneak attack** and will sum two rolls (before adding/subtracting bonuses). Both rolls are capable of being a critical success.
 ### Moving
 In natural terrain and in darkness, when not moving or moving slowly, Rangers cannot be seen. Elsewhere, and when moving quickly, a Ranger can be spotted if they cross an enemy's sight.
 Rangers are never heard unless they want to be.
 First players move (simultaneously), then enemies, unless the players are caught by surprise, in which case the order reverses.
 Move 8 spaces per action; 4 if trying to move unseen or climb something.
-One grid space represents either 5-10 feet or the immediate threat range of a combatant.
+One grid space represents either 5-10 feet or the immediate threat range of a combatant. Characters can move through a space occupied by an ally but cannot end their turn on it.
 ### Enemies
 The players' foes work somewhat differently.
 When an enemy attacks a player, the Narrator rolls a d8 (taking into account any advantage or disadvantage), adds the total bonus or penalty, and compares it to the player's dodge stat. If the result is equal to or greater than the dodge stat, it hits the player.
@@ -118,15 +120,15 @@ Enemies can face any of the cardinal directions. This direction is important to 
 An enemy aware that a Ranger is present will generally go into **high alert**, preventing sneak attacks coming from their field of vision.
 ### Bosses
 These characters are usually the ultimate enemy of a mission. But this isn't a hard rule! They are much more deadly and flexible than the usual fodder.
-Bosses have stats, including BODY, MIND, and WIT, as well as "boss health". This is on top of armor and the normal health pool.
+Bosses have stats, including BODY, MIND, and WIT, as well as "**boss health**". This is on top of armor and the normal health pool.
 Boss core stats come into effect whenever the boss should make a check.
 Boss health is a pool of health that lies "above" their normal health. If an attack would bring their boss health to zero, the remaining damage is not carried over into their normal health. This can serve as a "health gate" to prevent them from being one-shot by sneak attacks.
 Bosses may also have access to talents both familiar and unfamiliar.
-When a boss's health reaches 0, they are *incapacitated*. Whether or not they fall unconscious, or even die, depends on either the Narrator's fiat or the attacking player's intent.
+When a boss's health reaches 0, they are **incapacitated**. Whether or not they fall unconscious, or even die, depends on either the Narrator's fiat or the attacking player's intent.
 ### Armor
 Armor is a number starting from 0 and going all the way up to 5 which subtracts from final damage. Players do not have armor.
 0 is unarmored, 5 is nearly impervious.
-An enemy may also be *heavily armored*, which means they are *truly* impervious to all *conventional* attacks a Ranger can make.
+An enemy may also be **heavily armored**, which means they are *truly* impervious to all *conventional* attacks a Ranger can make.
 ### Range Bands
 Melee range is within an adjacent space
 Close range is within sneaking distance (4 spaces)
@@ -134,13 +136,13 @@ Medium range is within running distance (8 spaces)
 Long range is within sprinting distance (16 spaces)
 Extreme range is anything outside of long range
 Weapons roll normally within their optimal range, and are viable for one range band outside of it, though making an attack from that distance will have disadvantage.
-Optional range for bow is long range, and for throwing knife is short range.
+Reminder: optional range for bow is long range, and for throwing knife is short range.
 ### Maimed
 When a Ranger hits 0 hitpoints, they become maimed. A maimed Ranger makes all attacks and checks with a -1 penalty and can only move 1d8 spaces when running (rolled every time they make a move action), or 1 space stealthily.
 ### Unconscious
 If a Ranger takes damage while maimed, they fall unconscious and prone, and can no longer take actions, but they also no longer occupy a space, meaning another character standing in their space will prevent others from targeting them with melee attacks.
 An unconscious Ranger cannot be revived except through specific means.
-- Another Ranger's help: whether through smelling salts, a slap on the cheek, a slash of cold water, or perhaps the simple smell of coffee, a Ranger in melee range can spend two actions in a single turn reviving an unconscious Ranger.
+- Another Ranger's help: whether through smelling salts, a slap on the cheek, a slash of cold water, or perhaps the simple smell of coffee, a Ranger in melee range can spend two actions in a single turn reviving an unconscious Ranger. (*Note: animal companions can also revive a player using this method*)
 - The Capsule: a specific talent.
 
 A Ranger revived after being reduced to 0 hitpoints will do so with 1 remaining hitpoint and be unable to perform an action until their next turn.
