@@ -1,4 +1,4 @@
-# ranger-ttrpg
+# Ranger TTRPG
 
 # What is this?
 This is the source repository for a TTRPG I'm creating (title pending). It is heavily (heavily) inspired by the *Ranger's Apprentice* series by John Flanagan, but it is not necessarily rooted in that setting. This RPG is meant to be relatively simple, with a focus on tactics and on making travel at least a little engaging. That's not to say there aren't a whole lot of character-building options - just that, as a result of being focused on rangers, players will tend to fall into a similar archetype. The system itself is influenced by D&D 5e, Aurora RPG Engine, BOLT RPG, and probably others.

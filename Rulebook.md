@@ -3,11 +3,11 @@ You protect the kingdom from both the inside and out.
 Normally solitary, Rangers are assigned to a Hold which is their sole responsibility - until they are called to action elsewhere.
 The people of the kingdom do not see Rangers often. Many are known to disappear from social situations suddenly and silently using their honed skills and camouflaging cloaks.
 Most Rangers are fond of the delicacy known as coffee. Running out of it will usually put one in a sour mood until their need is quenched.
-Today you are called upon by your Commander for a mission. Maybe you have to solve a mystery, or deescalate a hostile situation, or prevent an assassination, or just attend a banquet. Maybe you're working alone, or maybe you're in good company.
+Today you your Commander calls upon you for a mission. Maybe you have to solve a mystery, or deescalate a hostile situation, or prevent an assassination, or just attend a banquet. Maybe you're working alone, or maybe you're in good company.
 # This System
 This system is intended to be used in one-shot, few-shot, and adventure-length campaigns. As Rangers, the player characters have unparalleled skill in stealth and marksmanship. Their duty is always to the kingdom, its ruler, and its people.
 This system's focus is on tactics, travel, and simplicity. Storytelling, character building, and worldbuilding are not covered in great detail because it is mostly left up to the players and Narrator.
-Player characters are powerful in some ways but not in others. Every Ranger has some weakness as a result of opportunities lost. The power curve is quite flat and does not go very high. Generally, greater experience is met with greater challenge, and more tools to overcome those challenges.
+Player characters are powerful in some ways but not in others. Every Ranger has some weakness as a result of opportunities lost. The power curve is shallow, and has a low ceiling. Generally, greater experience is met with greater challenge, and more tools to overcome those challenges.
 Combat is fast and tactical, and relatively insulated from the rest of the game. Attrition and extermination is *never* the objective when the players initiate combat. A grid is heavily suggested, plus distinct miniatures whose front and back are clearly defined. Battlefields are suggested to be plausible locations with some verticality and a lot of cover and places to hide. Players can only take a few hits before going down and potentially dying. Most players will want to maintain distance, though some builds allow for great close-range performance; every Ranger has their own twist on the formula.
 Travel is meant to be at least somewhat engaging. A detailed map with accurate scale is *heavily* suggested to be provided to the players. If the players make an unwise routing decision or simply have a run of very bad luck, it has the potential to jeopardize their mission or even kill them. Additionally, there is potential for encounters in the wild. And every day spent puts a dent in the party's coffee supply...
 > Note: assume all fractions during gameplay are rounded down.
@@ -44,7 +44,7 @@ There are also combat stats:
 **Dodge** 5-8 (starts at 5)
 
 At character creation, each player begins with 8 **Ranger Points (RP)**. Each mission rewards a player a number of RP. RP can be spent between missions.
-One RP can be spent on one stat (core or combat). Talents' costs are listed in the Talents section. Core stats and dodge can have a maximum of 3 points put into them, and hitpoints have a maximum of 5. There is no limit to the number of talents.
+One RP can be spent on one stat (core or combat). Talents' costs are listed in the Talents section. Core stats and dodge can have a maximum of 3 points put into them, and hitpoints a maximum of 4. There is no limit to the number of talents.
 A player can also spend 4 RP on an **animal companion**.
 # Checks
 Checks are made when the player chooses to or is required to make an action that they can potentially fail at.
@@ -78,20 +78,20 @@ If the player wants to attempt an extremely foolhardy action that still has a sl
 Having two sources of disadvantage does **not** alone impose double disadvantage.
 There is no double advantage.
 ### Critical Success
-If the final die rolled an 8 on its face, the player has made a critical success. If the roll is for a check, the result of the check comes with a little extra benefit, courtesy of the Narrator. A critical successes on an attack means the die can be rolled again and added to the damage. The extra die cannot be a critical success even if it rolls 8.
+If the final die rolled an 8 on its face, the player has made a critical success. If the roll is for a check, the result of the check comes with a little extra benefit, courtesy of the Narrator. A critical success on an attack means the die can be rolled again and added to the damage. The extra die does not count as a critical success if it rolls 8.
 ### Critical Failure
-If the final die rolled a 1 on its face, the player has made a critical failure. This means the result of the check comes with some kind of hindrance or complication, which may either come from the Narrator or be coordinated between the Narrator and player. Attacks (normally) do not critically fail.
+If the final die rolled a 1 on its face, the player has made a critical failure. This means the result of the check comes with some kind of hindrance or complication, which may either come from the Narrator or be coordinated between the Narrator and player. **Attacks (normally) do not critically fail.**
 # Combat
 ### Actions
 One turn represents a "beat" of combat, enough time for a single exchange of blows to happen before both sides need a quick breather.
 Every turn consists of two actions.
 Moving is an action.
 Attacking is an action.
-Kicking open a door, dropping an object or weapon, drawing a one-handed weapon, pushing a button, saying a quick sentence, signaling, doing a fancy flourish, and dropping prone take no actions. 
-Picking up an object or weapon, opening a door quietly, throwing something, cutting through foliage, getting on a horse, pushing something over, retrieving equipment on your person, stowing a bow, getting up from a prone position, and most checks take one action.
+Kicking open a door, dropping an object or weapon, drawing a one-handed weapon, pushing a button, saying a quick sentence, signaling, doing a fancy flourish, or dropping prone take no actions. 
+Picking up an object or weapon, opening a door quietly, throwing something, cutting through foliage, getting on a horse, pushing something over, retrieving equipment on your person, stowing a bow, getting up from a prone position, or most checks take one action.
 Stringing a bow and picking a lock take two actions in a single turn.
 Other activities' action cost are up to the narrator. For example, sliding down a stairway while balancing on a shield could be a skill check and movement in a single action.
-If an action remains after a player's turn, they take a defensive stance and gain +1 to their dodge.
+If an action remains after a player's turn, they take a defensive stance and gain +1 to their Dodge.
 ### Attacking
 Rangers never miss their target when using their bow. In fact, players do not roll "to hit" in this system. Instead, they roll dice to determine damage.
 - **Bow** - d8 (optimal range: long)
@@ -102,10 +102,10 @@ Getting a total result of 0 or below indicates that an attack missed completely.
 Getting a critical success on an attack (rolling an 8 on the die) means the player can roll the die again and add it to the damage, though this extra roll cannot be another critical success.
 Attacks made while the enemy's back is turned or while the enemy is not on high alert is a **sneak attack** and will sum two rolls (*before* adding/subtracting modifiers). Both rolls are capable of being a critical success.
 ### Moving
-In natural terrain and in darkness, when not moving or moving slowly, Rangers cannot be seen. Elsewhere, and when moving quickly, a Ranger can be spotted if they cross an enemy's sight.
+In natural terrain and in darkness, when not moving or moving slowly, Rangers cannot be seen. Elsewhere, or when moving quickly, a Ranger can be spotted if they cross an enemy's field of vision.
 Rangers are never heard unless they want to be.
 First players move (simultaneously), then enemies, unless the players are caught by surprise, in which case the order reverses.
-Move 8 spaces per action; half if trying to move unseen; half to climb something.(If the player is moving slowly while climbing something, they can only move half of 8 halved, equaling 2, spaces during that action.)
+Move 8 spaces per action; half if trying to move unseen; half to climb something (i.e. if the player is moving slowly while climbing something, they can only move 2 spaces during that action).
 One grid space represents either 5-10 feet or the immediate threat range of a combatant. Characters can move through a space occupied by an ally but cannot end their turn on it.
 ### Enemies
 The players' foes work somewhat differently.
@@ -116,7 +116,7 @@ Enemies, meanwhile, can have a health value ranging from pitifully small to down
 Enemies also have two actions each, but they are mostly limited to move (usually 8 spaces max), get up from prone, switch weapons, and attack. If an enemy needs to make a check, it is a flat d8 roll.
 An enemy who reaches 0 health dies *unless* the player who attacks them declares beforehand that the attack is aimed to be nonlethal. In other words, attacks are considered lethal by default.
 The above limitations apply to all enemies except for bosses.
-Enemies have a **field of vision** which occupies all unobscured spaces in front of them. Imagine a straight line perpendicular to their cardinal facing lining up with the edge of their space directly in front of them. All spaces they have *complete* line of sight to *across* that line are in their field of vision.
+Enemies have a **field of vision** which occupies all non-obscured spaces in front of them. Imagine a straight line perpendicular to their cardinal facing lining up with the edge of their space directly in front of them. All spaces which they have *complete* line of sight to *across* that line are in their field of vision.
 However, they can only *spot* objects and movements within long range of them in daylight, and within medium range in any other light level. It may be worth it to produce several semicircles with long and medium range radii to represent this spotting range in play.
 Enemies can face any of the cardinal directions. This direction is important to know for sneak attacks.
 An enemy aware that a Ranger is present will generally go into **high alert**, preventing sneak attacks coming from their field of vision.
@@ -130,15 +130,15 @@ When a boss's health reaches 0, they are **incapacitated**. Whether or not they 
 ### Armor
 Armor is a number starting from 0 and going all the way up to 5 which subtracts from final damage. Players do not have armor.
 0 is unarmored, 5 is nearly impervious.
-An enemy may also be **heavily armored**, which means they are *truly* impervious to all *conventional* attacks a Ranger can make.
+An enemy may also be **heavily armored**, which means they are *truly* impervious to all *normal* attacks a Ranger can make, requiring some problem solving.
 ### Range Bands
 Melee range is within an adjacent space
 Close range is within sneaking distance (4 spaces)
 Medium range is within running distance (8 spaces)
 Long range is within sprinting distance (16 spaces)
 Extreme range is anything outside of long range
-Weapons roll normally within their optimal range, and are viable for one range band outside of it, though making an attack from that distance will have disadvantage.
-Reminder: optional range for bow is long range, and for throwing knife is short range.
+Weapons roll normally within their optimal range, and are viable for one range band outside of it, though making an attack from that distance will have disadvantage. Any other range makes the attack impossible.
+Reminder: optimal range for bow is long range, and for throwing knife is short range.
 ### Maimed
 When a Ranger hits 0 hitpoints, they become maimed. A maimed Ranger makes all attacks and checks with a -1 penalty and can only move 1d8 spaces when running (rolled every time they make a move action), or 1 space stealthily.
 ### Unconscious
@@ -148,18 +148,18 @@ An unconscious Ranger cannot be revived except through specific means.
 - Certain talents.
 
 A Ranger revived after being reduced to 0 hitpoints will do so with 1 remaining hitpoint, but remain prone.
-An unconscious Ranger hit with a melee attack of harmful intent will begin bleeding out and will die after their next turn if they do not receive urgent medical attention.
+An unconscious Ranger hit with a melee attack of harmful intent will begin bleeding out and will die *after their next turn* if they do not receive urgent medical attention.
 ### Prone
 A prone character gives disadvantage to all ranged attacks made against them. A prone character cannot move before getting up. Bows and thrown weapons cannot be used while prone.
 ### Cover
 A character that is only partially visible to some combatants gives disadvantage to all ranged attacks made against them coming from those combatants.
 # Stealth
-Ranger stealth during combat encounters has already been detailed. In more narrative situations, it suffices to assume players cannot be seen if they are trying not to be, or secretly roll NPC checks at disadvantage behind the screen. Rangers are extremely well-practiced at avoiding detection even when not actively trying - even their camps tend to blend into the environment.
-However, that is not to say they *can't* be caught by surprise. If a character or group of characters is attempting to avoid detection unbeknownst to the party, roll a check against each party member using their WIT stat as the target to beat. Whoever a check rolls low against becomes aware of the character(s).
+Ranger stealth during combat encounters has already been detailed. In more narrative situations, it suffices to assume players cannot be seen if they are trying not to be, or the narrator can secretly roll NPC checks at disadvantage. Rangers are extremely well-practiced at avoiding detection even when not actively trying - even their camps tend to blend into the environment.
+However, that is not to say *they* can't be caught by surprise. If a character or group of characters is attempting to avoid detection unbeknownst to the party, roll a check against each party member using their WIT stat as the target to beat. Whoever a check rolls low against becomes aware of the character(s).
 If a player is attacked by a character they are not aware of, the attack roll is made at advantage.
 If one or more players are not aware of oncoming enemies when combat starts, they are **surprised** and cannot act for the first round.
 # Recovering Hitpoints
-When combat resolves, players regain all hitpoints, or half their maximum hitpoints if they were maimed during the fight.
+When combat resolves, each player regains all hitpoints, or half their maximum hitpoints if they were maimed during the fight.
 # Talents
 Talents are special features a Ranger has which give benefits such as advantage, bonuses in certain situations, or even unique abilities. They cost a certain amount of Ranger Points (RP) to get, and can only be gained between missions. To see a detailed list of all available talents, refer to `Talents.md`.
 # Travel
@@ -170,14 +170,14 @@ Travel occurs day by day. Every day, the party nominates one member to lead the 
 
 Travel pace is as follows:
 
-| Terrain  | Miles per day (mount/on-foot) | Conditions     | Modifier |
-| -------- | ----------------------------- | -------------- | -------- |
-| Grassy   | 50/30                         | Rain           | -10      |
-| Forest   | 30/20                         | Snow           | -20      |
-| Rocky    | 40/30                         | Dehydratation  | -20      |
-| Icy      | 20/10                         | Hunger         | -10      |
-| Desert   | 40/20                         | High Elevation | -10      |
-| Mountain | 30/20                         | Sprint         | x2       |
+| Terrain  | Miles per day (mounted/on-foot) | Conditions     | Modifier |
+| -------- | ------------------------------- | -------------- | -------- |
+| Grassy   | 50/30                           | Rain           | -10      |
+| Forest   | 30/20                           | Snow           | -20      |
+| Rocky    | 40/30                           | Dehydratation  | -20      |
+| Icy      | 20/10                           | Hunger         | -10      |
+| Desert   | 40/20                           | High Elevation | -10      |
+| Mountain | 30/20                           | Sprint         | x2       |
 
 If you use a hex grid for travel, it might be easy to consider a single hex as 10 miles.
 If, by circumstance, the party cannot travel more than 10 miles in a day, it suggests there are extreme circumstances besetting them. Thus, the leader must also roll a WIT check to ensure the party does not fall hungry. If the check fails, the party becomes hungry as they fail to find enough food to eat. This condition lasts until the party is able to move more than 10 miles in a day.
@@ -187,23 +187,23 @@ The party may decide that speed is of the essence. In such a case, the party can
 Each Ranger has a supply of coffee beans which is replenished after every mission. This is represented by a coffee count of 3 per player.
 At the beginning of each day, the party decides who will donate enough of their bean stash to make a full pot (in other words, one party member must decrease their coffee count by one).
 Drinking coffee at the beginning of the day gives the Ranger one Rush (explained below).
-If, for whatever reason, a Ranger goes without coffee in the morning, they must roll a WIT check. If they fail, they are tired and grumpy for the whole day, suffering a -1 to their highest stat (choose one if there's multiple).
+If, for whatever reason, a Ranger goes without coffee in the morning, they must roll a WIT check. If they fail, they are tired and grumpy for the whole day, suffering a -1 to their highest stat (choose one if there's multiple options).
 ### Rush
 Rush is given to players by the Narrator at various points in the game. All Rush wears off by the morning. It is given:
 - When a player's Ranger drinks coffee in the morning.
 - When one or more players make an incredibly immersive in-character roleplay moment.
 - When a player makes a deeply clever and surprising action.
-- Whenever the Narrator damn wants.
+- Whenever the Narrator wants.
 
 Rush can be used by players whenever *any* die has been rolled to:
-- give a +1 or -1 bonus/penalty to the roll
-- reroll the die and use either the higher or lower value between the original roll and the reroll
+- Give a +1 or -1 bonus/penalty to the roll.
+- Reroll the die and use either the higher or lower value between the original roll and the reroll.
 # Animal Companions
 If a player so chooses, they may spend 4 RP on an animal companion at character creation and at any point between missions during the campaign. A player can have as many animal companions as they want, but they are solely the player's responsibility. Animal companions may also be given as part of a mission or story, the stats of which are decided by the Narrator.
-Animal companions share Rush with their owner and can use it in all the same ways. They act during the players' turn and do *not* have to act at the same time as their owner. They share all combat rules with players except for stealth; it is not a given that they are undetectable.
+Animal companions share Rush with their owner and can use it in all the same ways. They act during the players' turn and do *not* have to act at the same time as their owner. They share all combat rules with players except for stealth; it is not a given that they are ever undetectable.
 An animal companion can be any creature of reasonable size plausible to the setting. *Ask the Narrator*. Choose either a **small** or **large** creature, then give them a talent from the lists below.
 ### Small
-*Less than the size of a labrador*
+*Less than the size of a labrador retriever*
 Core stat bonus: WIT +2
 Movement per action: 4 spaces
 Hitpoints: 1
