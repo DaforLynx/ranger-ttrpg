@@ -1,8 +1,3 @@
----
-tags:
-  - ttrpg
-  - ranger-ttrpg
----
 I've separated talents into "out of combat" and "in combat" talents just to make things easier to browse through, but these categories do not necessarily dictate entirely when a talent can be used or when it is relevant.
 There's also a category for magical abilities. Magic is an optional system which is up to the Narrator to allow.
 # Out of combat

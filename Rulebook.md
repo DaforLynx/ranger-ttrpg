@@ -1,8 +1,3 @@
----
-tags:
-  - ttrpg
-  - ranger-ttrpg
----
 # You Are a Ranger
 You protect the kingdom from both the inside and out.
 Normally solitary, Rangers are assigned to a Hold which is their sole responsibility - until they are called to action elsewhere.

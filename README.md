@@ -1,8 +1,3 @@
----
-tags:
-  - ttrpg
-  - ranger-ttrpg
----
 # ranger-ttrpg
 
 # What is this?

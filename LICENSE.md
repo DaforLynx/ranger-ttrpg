@@ -1,8 +1,3 @@
----
-tags:
-  - ttrpg
-  - ranger-ttrpg
----
 Attribution 4.0 International
 
 =======================================================================
